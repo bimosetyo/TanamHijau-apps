@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".ResetSuccess">
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="212dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="96dp"
+        android:layout_marginTop="300dp"
+        android:layout_marginEnd="102dp"
+        android:layout_marginBottom="393dp"
+        android:text="Congratulation !  "
+        android:textColor="#4CAF50"
+        android:textSize="28sp" />
+
+    <ImageView
+        android:id="@+id/imageView22"
+        android:layout_width="match_parent"
+        android:layout_height="285dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="-100dp"
+        android:layout_marginBottom="546dp"
+        app:srcCompat="@drawable/RectangleJ" />
+
+    <ImageView
+        android:id="@+id/imageView21"
+        android:layout_width="match_parent"
+        android:layout_height="351dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="-66dp"
+        android:layout_marginEnd="-50dp"
+        android:layout_marginBottom="445dp"
+        app:srcCompat="@drawable/a" />
+
+    <ImageView
+        android:id="@+id/imageView24"
+        android:layout_width="258dp"
+        android:layout_height="225dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="133dp"
+        android:layout_marginBottom="506dp"
+        app:srcCompat="@drawable/PlantDoodleremovebgpreview" />
+
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="wrap_content"
+        android:layout_height="51dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="87dp"
+        android:layout_marginTop="349dp"
+        android:layout_marginEnd="93dp"
+        android:layout_marginBottom="331dp"
+        android:text="Success to Reset "
+        android:textColor="#4CAF50"
+        android:textSize="28sp" />
+
+    <ImageView
+        android:id="@+id/imageView22"
+        android:layout_width="match_parent"
+        android:layout_height="285dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="-100dp"
+        android:layout_marginBottom="546dp"
+        app:srcCompat="@drawable/RectangleJ" />
+
+    <ImageView
+        android:id="@+id/imageView24"
+        android:layout_width="258dp"
+        android:layout_height="225dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="133dp"
+        android:layout_marginBottom="506dp"
+        app:srcCompat="@drawable/PlantDoodleremovebgpreview" />
+
+    <ImageButton
+        android:id="@+id/imageButton"
+        android:layout_width="wrap_content"
+        android:layout_height="28dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="13dp"
+        android:layout_marginTop="626dp"
+        android:layout_marginEnd="350dp"
+        android:layout_marginBottom="76dp"
+        app:srcCompat="@drawable/google_logo" />
+
+    <ImageButton
+        android:id="@+id/imageButton2"
+        android:layout_width="36dp"
+        android:layout_height="31dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="59dp"
+        android:layout_marginTop="621dp"
+        android:layout_marginBottom="78dp"
+        app:srcCompat="@drawable/fb_logo" />
+
+    <ImageButton
+        android:id="@+id/imageButton4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="99dp"
+        android:layout_marginTop="619dp"
+        android:layout_marginEnd="277dp"
+        android:layout_marginBottom="77dp"
+        app:srcCompat="@drawable/apple_logo" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="match_parent"
+        android:layout_height="252dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="532dp"
+        android:layout_marginEnd="-30dp"
+        android:layout_marginBottom="-145dp"
+        android:rotation="180"
+        app:srcCompat="@drawable/onboarding" />
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="268dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="181dp"
+        android:layout_marginTop="636dp"
+        android:layout_marginEnd="-38dp"
+        android:layout_marginBottom="9dp"
+        app:srcCompat="@drawable/ve" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="72dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="232dp"
+        android:layout_marginTop="639dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="20dp"
+        android:backgroundTint="#348356"
+        android:text="Back to Login ➔" />
+
+    <ImageView
+        android:id="@+id/imageView12"
+        android:layout_width="293dp"
+        android:layout_height="243dp"
+        android:layout_marginStart="14dp"
+        android:layout_marginTop="-2dp"
+        android:layout_marginEnd="104dp"
+        android:layout_marginBottom="490dp"
+        app:srcCompat="@drawable/PlantDoodleremovebgpreview" />
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="268dp"
+        android:layout_height="155dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="60dp"
+        android:layout_marginTop="400dp"
+        android:layout_marginEnd="81dp"
+        android:layout_marginBottom="176dp"
+        app:srcCompat="@drawable/messages" />
+
+    <ImageView
+        android:id="@+id/imageView15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="60dp"
+        android:layout_marginBottom="383dp"
+        app:srcCompat="@drawable/celebration" />
